@@ -39,9 +39,9 @@ Cadastrar entregador
         - Formulário json
 	
         {
-        “nome”: “...”,
-        “cpf”: “...”,
-        “capacidade”: “...”
+	        “nome”: “...”,
+	        “cpf”: “...”,
+	        “capacidade”: “...”
         }
 
 Pesquisar um entregador
@@ -59,9 +59,9 @@ Alterar um cadastro
         - Formulário json
 	
         {
-        “nome”: “...”,
-        “cpf”: “...”,
-        “capacidade” : “...”
+	        “nome”: “...”,
+	        “cpf”: “...”,
+	        “capacidade” : “...”
         }
 
 Excluir um entregador
