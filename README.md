@@ -25,11 +25,13 @@ Essa API foi construída usando o banco de dados PostgreSQL
 
 ## Utilização
 Ver a lista já cadastrada
+
         - URI: http://localhost:8080/lista
 	
         - Metodo: GET
 
 Cadastrar entregador
+
         - URI: http://localhost:8080/criar
 	
         - Metodo: POST
@@ -43,11 +45,13 @@ Cadastrar entregador
         }
 
 Pesquisar um entregador
+
         - URI: http://localhost:8080/pesquisar/{id}
 	
         - Metodo: GET
 
 Alterar um cadastro
+
         - URI: http://localhost:8080/alterar/{id}
 	
         - Metodo: POST
@@ -61,6 +65,7 @@ Alterar um cadastro
         }
 
 Excluir um entregador
+
         - URI: http://localhost:8080/apagar/{id}
 	
         - Metodo: DELETE
