@@ -10,6 +10,7 @@ Vídeo demonstrando utilização:
 5. Postman, ou outro gerenciador de arquivos.
 
 ## Configurar banco de dados:
+
 Essa API foi construída usando o banco de dados PostgreSQL
 		Database: postgres
 		Username: postgres
@@ -54,7 +55,7 @@ Alterar um cadastro
 
         - URI: http://localhost:8080/alterar/{id}
 	
-        - Metodo: POST
+        - Metodo: PUT
 	
         - Formulário json
 	
