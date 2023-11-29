@@ -10,11 +10,11 @@ Vídeo demonstrando utilização:
 5. Postman, ou outro gerenciador de arquivos.
 
 ## Configurar banco de dados:
-
 Essa API foi construída usando o banco de dados PostgreSQL
-		Database: postgres
-		Username: postgres
-		Password: s3nh4
+
+	- Database: postgres
+	- Username: postgres
+	- Password: s3nh4
 
 ## Iniciar a aplicação
 1. Copie esse projeto para pasta da sua IDE
